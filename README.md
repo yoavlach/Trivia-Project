@@ -54,8 +54,7 @@ cd Trivia_Project
 
 
 3. **Launch the Client (C#):**
-* Open the client solution in Visual Studio.
-* Restore NuGet packages (if using a JSON library).
+* Create a project in Visual Studio.
 * Run the application to connect to the server.
 
 
