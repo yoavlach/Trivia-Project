@@ -61,5 +61,5 @@ cd Trivia_Project
 
 ## 👥 Contributors
 
-* **Yoav Lach** - Core Developer (Backend Architecture, Sockets, State Machine, DB Integration)
-* **Yonatan** - Core Developer (Frontend GUI, Protocol Serialization, Room Management Logic)
+* **Yoav Lach** - Core Developer
+* **Yonatan** - Core Developer
